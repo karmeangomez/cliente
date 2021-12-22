@@ -867,235 +867,35 @@ https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canaljetixla
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
-#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
-#EXTINF:-1 tvg-logo="https://bit.ly/3pvcq4N" group-title="24H", 24H | PAJARO LOCO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104202
-#EXTINF:-1 tvg-logo="https://bit.ly/3lIFvZg" group-title="24H", 24H | PANTERA ROSA
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104206
-#EXTINF:-1 tvg-logo="https://bit.ly/3DuJyOY" group-title="24H", 24H | MR BEAN ANIMADO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104207
-#EXTINF:-1 tvg-logo="https://bit.ly/3ExgSX2" group-title="24H", 24H | BOB ESPONJA
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104209
-#EXTINF:-1 tvg-logo="https://bit.ly/3osavP9" group-title="24H", 24H | LOONEY TUNES
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104210
-#EXTINF:-1 tvg-logo="https://bit.ly/3GhUYaI" group-title="24H", 24H | CHESPIRITO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6789
-#EXTINF:-1 tvg-logo="https://bit.ly/3InfTLk" group-title="24H", 24H | CABALLEROS DEL ZODIACO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6792
-#EXTINF:-1 tvg-logo="https://bit.ly/306cGyA" group-title="24H", 24H | EL CHAVO 2
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6795
-#EXTINF:-1 tvg-logo="https://bit.ly/3lIKBES" group-title="24H", 24H | BEN 10
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6797
-#EXTINF:-1 tvg-logo="https://bit.ly/3rEtYxV" group-title="24H", 24H | ED EDD Y EDDY
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6801
-#EXTINF:-1 tvg-logo="https://bit.ly/31rpoZu" group-title="24H", 24H | FUTURAMA
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6802
-#EXTINF:-1 tvg-logo="https://bit.ly/3y4JQLA" group-title="24H", 24H | ANIMANIACS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6804
-#EXTINF:-1 tvg-logo="https://bit.ly/31ClXyw" group-title="24H", 24H | THUNDERCATS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87518
-#EXTINF:-1 tvg-logo="https://bit.ly/3dtj1Hb" group-title="24H", 24H | PICAPIEDRAS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87523
-#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6790
-#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE 2
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6796
-#EXTINF:-1 tvg-logo="https://bit.ly/3Ifk3ol" group-title="24H", 24H | CASO CERRADO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104211
-#EXTINF:-1 tvg-logo="https://bit.ly/31fndYV" group-title="24H", 24H | CHAPULIN ANIMADO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100833
-
-#EXTINF:-1 tvg-id="EPG123.90209.XMLTV.CO" tvg-name="INFANTILES SD | NICK MUSIC" tvg-logo="https://static.epg.best/us/Nicktoons.us.png" group-title="Kids", NICK MUSIC
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/921
-#EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Kids | NICK" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="Kids", NICK HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6294
-#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Kids | NICK 2 TEAM NICK" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="Kids", TEEN NICK
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6295
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Kids | NICK JR" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="Kids", NICK JR
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6296
-#EXTINF:-1 tvg-id="" tvg-name="Kids | BABY FIRST" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids", BABY FIRST
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104196
-#EXTINF:-1 tvg-id="BOING" tvg-name="ESPAÑA | BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Kids", BOING SD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/66282
-#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Kids | CARTOON NETWORK" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="Kids", CARTOON NETWORK
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6288
-#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Kids | DISCOVERY KIDS" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="Kids", DISCOVERY KIDS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6289
-#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="Kids | DISNEY CHANNEL" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="Kids", DISNEY CHANNEL
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6290
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Kids | DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="Kids", DISNEY JUNIOR
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6291
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Kids | DISNEY XD" tvg-logo="https://static.epg.best/mx/DisneyXD.mx.png" group-title="Kids", DISNEY XD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6292
-#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Kids | NATGEO KIDS" tvg-logo="https://static.epg.best/mx/NatGeoKids.mx.png" group-title="Kids", NATGEO KIDS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6293
-
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | PENTHOUSE QUICKIES" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | PENTHOUSE QUICKIES
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6744
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | XY PLUS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | XY PLUS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6745
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | DORCEL" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | DORCEL
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6746
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | PINKO CLUB" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | PINKO CLUB
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6747
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | VIVID TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | VIVID TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6748
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | XXL (18+)" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | XXL (18+)
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6749
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | PENTHOUSE GOLD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | PENTHOUSE GOLD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6751
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | X-MO" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | X-MO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6752
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | SEX ATION" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | SEX ATION
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6753
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Russian Night" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Russian Night
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6754
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | BLUE HUSTLER" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | BLUE HUSTLER
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6755
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | CENT & CENTO" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | CENT & CENTO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6756
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | PRIVATE TV (18+)" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | PRIVATE TV (18+)
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6757
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | HUSTLER (18+)" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | HUSTLER (18+)
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6758
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | PLAYBOY TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | PLAYBOY TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6759
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | XXX BIAGASS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | XXX BIAGASS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6872
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | VENUS " tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | VENUS 
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87776
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | SUPER ON" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | SUPER ON
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100788
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | BABE STATION 24" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | BABE STATION 24
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100793
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | VISIT X TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | VISIT X TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100794
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | VISIT X TV HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | VISIT X TV HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100795
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | JASMIN TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | JASMIN TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100796
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV ANAL" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV ANAL
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100797
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV BIG ASS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV BIG ASS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100798
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV BIG DICK" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV BIG DICK
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100799
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV BIG TITS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV BIG TITS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100800
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV BLONDE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV BLONDE
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100801
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV BLOWJOB" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV BLOWJOB
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100802
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV BRUNETTE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV BRUNETTE
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100803
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV COMPILATION" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV COMPILATION
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100804
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV CUCKOLD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV CUCKOLD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100805
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV FETISH" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV FETISH
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100806
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV GANGBAND" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV GANGBAND
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100807
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV GAY" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV GAY
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100808
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV HARDCORE" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV HARDCORE
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100809
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV INTERRACIAL" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV INTERRACIAL
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100810
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV LATINA" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV LATINA
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100811
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV LESBIAN" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV LESBIAN
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100812
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV LIVE CAMS" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV LIVE CAMS
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100813
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV MILF" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV MILF
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100814
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV PORNSTAR" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV PORNSTAR
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100815
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV POV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV POV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100816
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV ROUGH" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV ROUGH
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100817
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV RUSIA" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV RUSIA
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100818
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV TEEN" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV TEEN
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100819
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ADULT IPTV THREESOME" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ADULT IPTV THREESOME
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100820
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | AST 2 HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | AST 2 HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100821
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ASTV " tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ASTV 
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100822
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | ОХ-АХ HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | ОХ-АХ HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112051
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | SL HOT HD2" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | SL HOT HD2
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112054
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Reality Kings" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Reality Kings
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112055
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | French Lover" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | French Lover
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112056
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Dusk" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Dusk
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112057
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | KinoXXX" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | KinoXXX
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112058
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Superone HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Superone HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112059
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Barely legal" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Barely legal
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112060
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Playboy TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Playboy TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112061
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Vivid Red HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Vivid Red HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112062
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Exxxotica HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Exxxotica HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112063
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Babes TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Babes TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112064
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Erox HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Erox HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112066
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Eroxxx HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Eroxxx HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112067
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Hustler HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Hustler HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112068
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Private TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Private TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112069
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Redlight HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Redlight HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112070
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Jasmin TV" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Jasmin TV
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112071
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Penthouse Gold HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Penthouse Gold HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112072
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Penthouse 2" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Penthouse 2
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112073
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | O-la-la" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | O-la-la
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112074
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Blue Hustler" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Blue Hustler
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112075
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Шалун" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Шалун
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112077
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Extasy HD" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | Extasy HD
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112080
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | XXL" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | XXL
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112081
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV 2" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV 2
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112082
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV 3" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV 3
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112083
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV 4" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV 4
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112084
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Parody" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Parody
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112085
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Compilation" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Compilation
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112086
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Anal" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Anal
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112087
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Teens" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Teens
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112088
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Lesbian" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Lesbian
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112089
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV BBW" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV BBW
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112090
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Trans" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Trans
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112091
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | FAP TV Gey" tvg-logo="https://static.epg.best/de/AdultChannel.de.png" group-title="ADULTO",ADULTO | FAP TV Gey
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/112092
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 01" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 01
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3463
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 02" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 02
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7130
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 03" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 03
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3467
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 04" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 04
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7129
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 05" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 05
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3465
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 06" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 06
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3466
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 07" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 07
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/47989
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 09" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 09
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/47990
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 08" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 08
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1068362
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 11" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 11
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7128
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 12" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 12
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18550
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 13" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 13
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1071029
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 14" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 14
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/47991
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 15 (GAY’S)" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 15 (GAY’S)
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/47992
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 16" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 16
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/17190
+#EXTINF:-1 tvg-id="" tvg-name="ADULTOS - PPV 17" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/LogoHotpack.png" group-title="XXX",ADULTOS - PPV 17
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1071030
